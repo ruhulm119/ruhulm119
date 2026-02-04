@@ -1,6 +1,7 @@
-### Hi there 👋, I'm Ruhul-Amin
+![Software Engineering + Web development](https://scontent.fdac24-5.fna.fbcdn.net/v/t39.30808-1/506307215_2208903859544241_6826296870496678638_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=102&ccb=1-7&_nc_sid=1d2534&_nc_ohc=n_zx-T89Gj8Q7kNvwGBu6qx&_nc_oc=Adn4qKX_UXoA5MabcmTrj2cCwMN9BcSTq23LfsS0Buy8eZUSueXdGeuFKQuFhQ8vu_M&_nc_zt=24&_nc_ht=scontent.fdac24-5.fna&_nc_gid=8_Awne87-CLrhf7gqSng2w&oh=00_AfvUpcgYCH08W380hEuDDWPVR2Q7Mj3m-uJxKiBCsH-5mg&oe=6988FF3F)
+# Hi there 👋, I'm Ruhul-Amin
 #### Software Engineering + Web development
-![Software Engineering + Web development](https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/519090380_2233437220424238_4592432087872576433_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=xj08pAIDVsgQ7kNvwGjJao2&_nc_oc=AdkUMHoyVvKViSnNkVqRVEaU18y_x9ktcLM5caNiWNlmRRz6x0eQvoDguNYYhpAQ_Js&_nc_zt=23&_nc_ht=scontent.fdac24-2.fna&_nc_gid=8_Awne87-CLrhf7gqSng2w&oh=00_Afvt6Qw8InS-QrVVYrchjNUNMtGc4fFjj8IQ9gAnjOZbJw&oe=69890BF7)
+
 
 I am a Software Engineering student with a strong interest in web development. I have experience working with HTML, CSS, and PHP, along with a basic understanding of UI/UX design principles. I enjoy building clean, user-friendly interfaces and focusing on good user experience. Currently, I am learning JavaScript to create more interactive and dynamic web applications. My goal is to continuously improve my skills and grow into a professional software developer by working on real-world projects.
 
