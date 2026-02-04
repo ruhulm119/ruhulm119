@@ -1,4 +1,4 @@
-![Software Engineering + Web development](https://scontent.fdac24-5.fna.fbcdn.net/v/t39.30808-1/506307215_2208903859544241_6826296870496678638_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=102&ccb=1-7&_nc_sid=1d2534&_nc_ohc=n_zx-T89Gj8Q7kNvwGBu6qx&_nc_oc=Adn4qKX_UXoA5MabcmTrj2cCwMN9BcSTq23LfsS0Buy8eZUSueXdGeuFKQuFhQ8vu_M&_nc_zt=24&_nc_ht=scontent.fdac24-5.fna&_nc_gid=8_Awne87-CLrhf7gqSng2w&oh=00_AfvUpcgYCH08W380hEuDDWPVR2Q7Mj3m-uJxKiBCsH-5mg&oe=6988FF3F)
+![Software Engineering + Web development](https://avatars.githubusercontent.com/u/227619431?v=4)
 # Hi there 👋, I'm Ruhul-Amin
 #### Software Engineering + Web development
 
